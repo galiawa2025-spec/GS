@@ -1,0 +1,30 @@
+﻿{
+  "name": "Galiawa - شوفێر و کارمەندان",
+  "short_name": "Galiawa",
+  "description": "سیستەمی گەڕان و بەڕێوەبردنی شوفێران و کارمەندانی گالیاوا",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F8F9FA",
+  "theme_color": "#091D3E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
